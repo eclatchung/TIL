@@ -1,5 +1,25 @@
 # README.md
 
+새로운 책 구매로 교재 변경
+
+ ## 윤성우의 열혈 자로구조
+
+ ### 목차
+ 1. 자료구조와 알고리즘의 이해
+ 2. 재귀
+ 3. [연결리스트(1,2,3)](./LinedList.md)
+ 4. 스택
+ 5. 큐
+ 6. 트리
+ 7. 우선순위큐와 힙
+ 8. 정렬
+ 9. 탐색(1,2)
+ 10. 테이블과 해쉬
+ 11. 그래프
+
+
+--------
+
 C로 쓴 자료구조론  - Ellis Horowitz
 [C로 쓴 자료구조론(2판) - 교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970858944)
 
@@ -15,3 +35,4 @@ C로 쓴 자료구조론  - Ellis Horowitz
 9. 우선순위 큐
 10. 효율적인 이원 탐색 트리
 11. 다원 탐색 트리
+
